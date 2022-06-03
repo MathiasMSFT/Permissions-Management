@@ -2,7 +2,7 @@
 Permissions Management is part of Microsoft Entra which includes Azure Active Directory and Verified ID
 
 
-## Enable Permissions Management (video)
+## Enable Permissions Management
 
 [![Alt text](https://img.youtube.com/vi/KiZny9ihP_s/0.jpg)](https://youtu.be/KiZny9ihP_s)
 
